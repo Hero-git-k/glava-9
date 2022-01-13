@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\bin\Debug\AfanasevGlava9.exe.config
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\bin\Debug\AfanasevGlava9.exe
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\bin\Debug\AfanasevGlava9.pdb
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.Form1.resources
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.Properties.Resources.resources
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.csproj.GenerateResource.cache
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.exe
+C:\Users\student\source\repos\AfanasevGlava9\AfanasevGlava9\obj\Debug\AfanasevGlava9.pdb
